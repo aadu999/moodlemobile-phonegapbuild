@@ -5,10 +5,10 @@
         id        = "in.sited.itm.moodle"
         versionCode = "20160"
         version   = "3.2.0">
-    <name>Moodle Mobile</name>
+    <name>ITM Moodle Client</name>
 
     <description>
-        ITM Moodle Client
+        ITM Moodle Client: a custom moodle experience on your Smart Phone.Powered By Sited.in
     </description>
 
     <author href="http://sited.in" email="adarsh@outlook.in">
