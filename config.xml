@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "in.sited.itm.moodle"
         versionCode = "20160"
         version   = "3.2.0">
     <name>Moodle Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        ITM Moodle Client
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://sited.in" email="adarsh@outlook.in">
+        Adarsh R
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
@@ -34,7 +34,7 @@
 
     <allow-intent href="*" />
 
-    <preference name="phonegap-version" value="cli-6.5.0" />
+    <preference name="phonegap-version" value="cli-6.0.0" />
     <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
